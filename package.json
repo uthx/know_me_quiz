@@ -1,0 +1,20 @@
+{
+  "name": "markone_know_me_quiz",
+  "version": "1.0.0",
+  "description": "This Repo is about \"How well you know me quiz\" which is a CLI repl app that I created  as an assignment for Mark-1 in NeoGCamp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com-uthx:uthx/markOne_know_me_quiz.git"
+  },
+  "author": "Rahul Dhiman",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "cli-table": "^0.3.6",
+    "readline-sync": "^1.4.10"
+  }
+}
