@@ -1,2 +1,2 @@
 # markOne_know_me_quiz
-This Repo is about "How well you know me quiz" CLI repl app that I created for as an assignment for mark 1 in newGCamp
+This Repo is about "How well you know me quiz" which is a CLI repl app that I created  as an assignment for Mark-1 in NeoGCamp
